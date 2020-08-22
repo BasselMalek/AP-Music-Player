@@ -1,0 +1,6 @@
+{
+    "sketch": "main_script.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "COM3"
+}
