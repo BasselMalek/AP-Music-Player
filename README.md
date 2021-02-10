@@ -1,2 +1,0 @@
-# Moaner
-A moaning door.

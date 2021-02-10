@@ -1,11 +1,5 @@
-#Reads the latest value from a serial port, decodes it then returns it as a float.
-#Created by: Bassel Walid
-#Email: bassel.walid04@gmail.com
-
-
 import sys
 import serial
-
 
 def serial_reader(port_name):
     '''

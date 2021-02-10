@@ -1,7 +1,3 @@
-#This module opens a random mp3 file from a directory then closes the player after it's playtime.
-#Created by: Bassel Walid
-#Email: bassel.walid04@gmail.com
-
 
 import os
 import time
